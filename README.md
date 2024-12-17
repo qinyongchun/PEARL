@@ -2,7 +2,7 @@
 
 *Yongchun Qin, [Pengfei Fang](https://fpfcjdsg.github.io/), [Hui Xue](http://palm.seu.edu.cn/hxue/)*
 
-Detailed supplementary materials are available in arxiv: 
+Detailed supplementary materials are available [in arxiv](https://arxiv.org/abs/2412.10900).
 
 This repository offers the official Pytorch code for this paper. The code will be released before the conference of AAAI-25.
 If you have any questions, feel free to contact Yongchun Qin (ycqin@seu.edu.cn).
