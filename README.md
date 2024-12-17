@@ -11,10 +11,13 @@ If you have any questions, feel free to contact Yongchun Qin (ycqin@seu.edu.cn).
 ## Citation
 
   ```
-@inproceedings{qin2025pearl,
-  title={PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning},
-  author={Qin, Yongchun and Fang, Pengfei and Xue, Hui},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  year={2025}
+@misc{qin2024pearlinputagnosticpromptenhancement,
+      title={PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning}, 
+      author={Yongchun Qin and Pengfei Fang and Hui Xue},
+      year={2024},
+      eprint={2412.10900},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2412.10900}, 
 }
   ```
