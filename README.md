@@ -1,11 +1,12 @@
 ## PEARL: Input-Agnostic Prompt Enhancement with Negative Feedback Regulation for Class-Incremental Learning (Accepted by AAAI-25)
 
-*Yongchun Qin, [Pengfei Fang](https://fpfcjdsg.github.io/), [Hui Xue](http://palm.seu.edu.cn/hxue/)*
+*Yongchun Qin<sup>1,2</sup>, [Pengfei Fang](https://fpfcjdsg.github.io/)<sup>1,2</sup>, [Hui Xue](http://palm.seu.edu.cn/hxue/)<sup>1,2</sup>*
 
-Detailed supplementary materials are available in [arxiv](https://arxiv.org/abs/2412.10900).
+<sup>1</sup> School of Computer Science and Engineering, Southeast University, Nanjing 210096, China
 
-If you have any questions, feel free to contact Yongchun Qin (ycqin@seu.edu.cn).
+<sup>2</sup> Key Laboratory of New Generation Artifcial Intelligence Technology and Its Interdisciplinary Applications (Southeast University), Ministry of Education, China
 
+***
 Our contributions:
 - We propose a novel CIL framework called **PEARL**, where a prompt encoder generates uniform prompts infused with global knowledge and accumulates knowledge through a momentum-based update strategy driven by negative feedback regulation. 
 - We introduce the **SPA** module, which enables a global prompt to simultaneously encapsulate knowledge from different tasks, overcoming the shortcomings of current ``query-select'' mechanism.    
@@ -14,10 +15,14 @@ Our contributions:
 
 ![Main Figure](images/mainfigure6.png)
 
+***
+Detailed supplementary materials are available in [arxiv](https://arxiv.org/abs/2412.10900).
+
+If you have any questions, feel free to contact Yongchun Qin (ycqin@seu.edu.cn).
 
 Thanks to LAMDA-PILOT (https://github.com/LAMDA-CL/LAMDA-PILOT)
 
-
+***
 ## Citations
 If you use any content of this repo for your work, please cite the following bib entries:
   ```
